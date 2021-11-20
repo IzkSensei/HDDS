@@ -9,7 +9,7 @@ AHD is a dataset of abnormal handwritten digits collected by disabled people. Th
 Dataset description and the English digits are available in the repo.
 
 
-This research project was my bachelor thesis that was done under the supervision of [Prof. Shadrokh Samavi](https://scholar.google.com/citations?user=Hj3vz2YAAAAJ&hl=en) at [Isfahan University of Technology](https://english.iut.ac.ir/) in 2018.
+The research project was my bachelor thesis, which was supervised by [Prof. Shadrokh Samavi](https://scholar.google.com/citations?user=Hj3vz2YAAAAJ&hl=en) at [Isfahan University of Technology](https://english.iut.ac.ir/) in 2018.
 
 
 
