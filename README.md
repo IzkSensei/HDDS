@@ -4,7 +4,7 @@
 
 
 
-AHD is a dataset of abnormal handwritten digits collected by disabled people. The AHD consists of images from several handwritten sets, using different writing tools, including pencils, pens, markers, etc.
+AHD is a dataset of abnormal handwritten digits collected by disabled people. Additionally, a few digits were collected from people with normal physical conditions to cover these types of digits as well. The AHD consists of images from several handwritten sets, using different writing tools, including pencils, pens, markers, etc.
 
 Dataset description and the English digits are available in the repo.
 
